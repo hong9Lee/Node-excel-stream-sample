@@ -1,4 +1,4 @@
-# node-excel-stream-sample
+# Node-excel-stream-sample
 - 챗봇 백오피스의 이용내역 통계 데이터를 엑셀로 내려받는 기능 개선
 - 운영기간이 길어짐에 따라 데이터량이 늘어 엑셀 다운로드시 Out of Memory 발생
 - 이를 회피하기 위해 node-excel-stream 모듈을 사용하여 기능 개선
